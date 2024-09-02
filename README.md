@@ -1,1 +1,1 @@
-This repository contains python all practice problems.
+This repository contains practice problems having data structures in python Programming Language.
